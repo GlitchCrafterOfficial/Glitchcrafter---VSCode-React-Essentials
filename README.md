@@ -10,6 +10,8 @@ Invest your valuable time in development, innovation, and creative problem-solvi
 
 Say goodbye to the risk of forgetting vital development extensions. In contrast to manual setup, with Glitchcrafter, accessing a comprehensive set of top-tier React development tools is as simple as installing a single extension.
 
+> **Note**: I recommend to use this extension pack in a new profile and restart VSCode after installation to ensure all extensions are working correctly.
+
 ## Table of Contents
 
 - [Glitchcrafter React Extension Pack](#glitchcrafter-react-extension-pack)
@@ -38,6 +40,10 @@ Say goodbye to the risk of forgetting vital development extensions. In contrast 
     - [Auto Rename Tag](#auto-rename-tag)
     - [React Hooks Snippets](#react-hooks-snippets)
     - [VSCode React Refactor](#vscode-react-refactor)
+    - [GitLens — Git supercharged](#gitlens--git-supercharged)
+  - [Changes](#changes)
+    - [Version 0.0.1](#version-001)
+    - [Version 0.0.2](#version-002)
 
 
 
@@ -143,7 +149,7 @@ Boost your JavaScript and TypeScript coding speed with postfix templates! This e
 
 **Additional Information**
 
-(PostFix TS Extension Official Repository)[https://github.com/ipatalas/vscode-postfix-ts]
+[PostFix TS Extension Official Repository](https://github.com/ipatalas/vscode-postfix-ts)
 
 ### ESLint
 
@@ -254,6 +260,7 @@ i18n Ally is a powerful Visual Studio Code extension designed to streamline the 
 * **Linked Locale Message Support:**  Handles complex translation structures with linked messages.
 
 **Additional Information**
+
 [I18nAlly official repository](https://github.com/lokalise/i18n-ally)
 
 ### Markdown All in One
@@ -309,6 +316,7 @@ GitLink streamlines collaboration by making it incredibly easy to share direct l
 * **Default Remote Configuration:**  Set a default remote repository to avoid repeatedly selecting from multiple remotes, further accelerating your collaborative workflow.
 
 **Additional Information**
+
 [GitLink Official Repository](https://github.com/qinezh/vscode-gitlink)
 
 ### Import Cost
@@ -434,7 +442,7 @@ Automatically add HTML/XML close tags, mirroring the behavior of Visual Studio I
 - Provides a keyboard shortcut (`Alt+.` or `Command+Alt+.`) and Command Palette option to manually add closing tags.
 
 **Additional Information**
-(Auto Close Tag Official Repository)[https://github.com/formulahendry/vscode-auto-close-tag]
+[Auto Close Tag Official Repository](https://github.com/formulahendry/vscode-auto-close-tag)
 
 
 ### Auto Rename Tag
@@ -447,8 +455,9 @@ Automatically rename paired HTML/XML tags, mirroring the functionality of Visual
 - Automatically renames the paired HTML/XML tag when you rename one tag.
 
 **Additional Information**
-(Auto Rename Tag Official Repository)[https://github.com/formulahendry/vscode-auto-rename-tag]
-(Homepage)[https://github.com/formulahendry/vscode-auto-rename-tag/blob/master/README.md]
+
+[Auto Rename Tag Official Repository](https://github.com/formulahendry/vscode-auto-rename-tag)
+[Homepage](https://github.com/formulahendry/vscode-auto-rename-tag/blob/master/README.md)
 
 ### React Hooks Snippets
 
@@ -485,4 +494,32 @@ Recompose your overgrown JSX without worrying about the given data.
 **Additional Information**
 [VSCode React Refactor Official Repository](https://github.com/planbcoding/vscode-react-refactor.git)
 
+### GitLens — Git supercharged
 
+**Author: GitKraken**
+
+Supercharges Git within VS Code, providing visualizations of code authorship, seamless navigation of Git repositories, and insights through rich visualizations and powerful comparison commands.
+
+**Key Features:**
+- Visualize code authorship at a glance via Git blame annotations and CodeLens.
+- Seamlessly navigate and explore Git repositories.
+- Gain valuable insights via rich visualizations.
+- Utilize powerful comparison commands.
+- Accelerate PR reviews with Launchpad (Pro).
+- Manage commits effortlessly using the Commit Graph (Pro).
+- Streamline collaboration with Cloud Patches and Code Suggest (Preview).
+
+**Additional Information**
+[GitLens — Git supercharged Official Repository](https://github.com/gitkraken/vscode-gitlens)
+[Homepage](https://gitkraken.com/gitlens)
+[GitLens Help Center](https://help.gitkraken.com/gitlens/gitlens-home/)
+
+## Changes
+
+### Version 0.0.1
+
+- Initial release of Glitchcrafter React Extension Pack.
+
+### Version 0.0.2
+
+- Added GitLens and Minor Markdown Corrections.

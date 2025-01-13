@@ -2,15 +2,30 @@
   "name": "glitchcrafter---vscode-react-essentials",
   "displayName": "Glitchcrafter - VSCode React Essentials",
   "description": "A curated pack of utilities for React Development in VSCode",
-  "icon": "./logo.png",
-  "version": "0.0.1",
+  "publisher": "GlitchCrafterOfficial",
+  "icon": "logo.png",
+  "version": "0.0.2",
   "author": {"name": "GlitchcCafter"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GlitchCrafterOfficial/Glitchcrafter---VSCode-React-Essentials"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+    "javscript",
+    "react",
+    "reactjs",
+    "typescript",
+    "programming",
+    "frontend",
+    "web",
+    "productivity"],
+
   "extensionPack": [ 
     "dsznajder.es7-react-js-snippets",
     "pranaygp.vscode-css-peek",
@@ -31,7 +46,8 @@
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
     "AlDuncanson.react-hooks-snippets" ,
-    "planbcoding.vscode-react-refactor"
+    "planbcoding.vscode-react-refactor",
+    "eamodio.gitlens"
 
   ]
 }
