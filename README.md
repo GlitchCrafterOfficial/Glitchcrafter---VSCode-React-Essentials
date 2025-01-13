@@ -522,4 +522,5 @@ Supercharges Git within VS Code, providing visualizations of code authorship, se
 
 ### Version 0.0.2
 
+- Minor Changes to the README.md file.
 - Added GitLens and Minor Markdown Corrections.
